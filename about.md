@@ -20,7 +20,7 @@ Aside from coding, I have a broad span of interests ranging from crystals and as
 - Zodiac Sign: Cancer
 - Favorites: Can't pick favorites
 - Siblings: 1
-- Pets: 4
+- Pets: 3
 
 ## Photo Dump!
 ##### Family Photo
@@ -29,7 +29,7 @@ Aside from coding, I have a broad span of interests ranging from crystals and as
 
 ##### Maddie and Oreo Glow Up
 ![Baby Oreo](./assets/images/babyOreo.jpeg)
-![Oreo](./assets/images/Oreo.jpeg)
+![Oreo](./assets/images/oreo.jpeg)
 
 ##### Fat Cat Joey and Pups
 ![hankAndJoey](./assets/images/hankAndJoey.jpeg)
