@@ -1,7 +1,7 @@
 # Hello!
-Welcome to my website! Click the links below to learn more about me.
+Welcome to my website! Here you can get familiar with some information about me and some work that I've done. 
 
-- [About](./about)
-- [Projects](./projects)
+- [Learn About Me](./about)
+- [Check out Some of My Previous Projects](./projects)
 
 ![Banner](./assets/images/cactus.jpeg)
