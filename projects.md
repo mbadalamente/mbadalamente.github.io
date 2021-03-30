@@ -5,7 +5,7 @@
 ***Here are the links to some projects I've worked on this semester in my CSC109 course:***
 
 #### Vending Machine
-[https://github.com/mbadalamente/vending-machine](https://github.com/mbadalamente/vending-machine)
+[https://github.com/mbadalamente/module-3](https://github.com/mbadalamente/module-3)
 
 >This project was a lab assignment done in java to get familiar with working with someone else on github. It was my first real time successfully collaborating with someone.
 
