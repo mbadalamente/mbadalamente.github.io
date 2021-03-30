@@ -1,5 +1,7 @@
 # Hello!
 Welcome to my website
 
-- [about](./about)
-- [projects](./projects)
+- [About](./about)
+- [Projects](./projects)
+
+![Banner](./assets/images/cactus.jpeg)
