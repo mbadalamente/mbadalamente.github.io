@@ -10,5 +10,4 @@ Here are the links to some projects I've worked on this semester in my CSC109 co
 ## DMV Simulator
 [https://github.com/mbadalamente/DmvSimulator](https://github.com/mbadalamente/DmvSimulator)
 
-![Code](./assets/images/coding.jpeg
-  )
+![Code](./assets/images/Projects.jpeg)
